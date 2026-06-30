@@ -1,0 +1,138 @@
+$date
+	Tue Jun 30 15:24:54 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 4 ! result [3:0] $end
+$var wire 1 " carry $end
+$var reg 4 # a [3:0] $end
+$var reg 4 $ b [3:0] $end
+$var reg 3 % sel [2:0] $end
+$var integer 32 & i [31:0] $end
+$scope module uut $end
+$var wire 4 ' a [3:0] $end
+$var wire 4 ( b [3:0] $end
+$var wire 3 ) sel [2:0] $end
+$var wire 4 * result [3:0] $end
+$var wire 1 " carry $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 *
+b0 )
+b111 (
+b1001 '
+b0 &
+b0 %
+b111 $
+b1001 #
+1"
+b0 !
+$end
+#10
+b10 !
+b10 *
+0"
+b1 %
+b1 )
+b1 &
+#20
+b1 !
+b1 *
+b10 %
+b10 )
+b10 &
+#30
+b1111 !
+b1111 *
+b11 %
+b11 )
+b11 &
+#40
+b1110 !
+b1110 *
+b100 %
+b100 )
+b100 &
+#50
+b110 !
+b110 *
+b101 %
+b101 )
+b101 &
+#60
+b10 !
+b10 *
+1"
+b110 %
+b110 )
+b110 &
+#70
+b100 !
+b100 *
+0"
+b111 %
+b111 )
+b111 &
+#80
+b1000 !
+b1000 *
+b0 %
+b0 )
+b100 $
+b100 (
+b100 #
+b100 '
+b0 &
+#90
+b0 !
+b0 *
+b1 %
+b1 )
+b1 &
+#100
+b100 !
+b100 *
+b10 %
+b10 )
+b10 &
+#110
+b11 %
+b11 )
+b11 &
+#120
+b0 !
+b0 *
+b100 %
+b100 )
+b100 &
+#130
+b1011 !
+b1011 *
+b101 %
+b101 )
+b101 &
+#140
+b1000 !
+b1000 *
+b110 %
+b110 )
+b110 &
+#150
+b10 !
+b10 *
+b111 %
+b111 )
+b111 &
+#160
+b1000 &
